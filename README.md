@@ -15,17 +15,16 @@
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
+1. Windows 365 Reserve
+1. Intune
+1. Windows App
 
-### 📚 Resources and Next Steps
+### 📚 Resources
 
-| Resources          | Links                             | Description        |
-|:-------------------|:----------------------------------|:-------------------|
-| Link to the outline  | [Outline](https://microsoft-my.sharepoint-df.com/:w:/p/adnich/Efkq4nEBMRNMoFGAjyykVkwB9CECSL0n0vAz-KvNKMhCYA?e=oGOWsV) |  |
-| Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198052)|  |
-| Link to the user guide | [Lab Guide](https://microsoft-my.sharepoint-df.com/:w:/p/adnich/ESU_J3oE9K9Nroz7LxZ4WIYB9Jjnt0vwIYwi4WE43dBzig?e=uutRkI) |  |
+[What is Windows 365 Reserve?](https://learn.microsoft.com/windows-365/enterprise/introduction-windows-365-reserve)
+[Managing Windows 365 Reserve](https://learn.microsoft.com/windows-365/enterprise/windows-365-reserve-manage)
+[Windows 365 Reserve licensing](https://learn.microsoft.com/windows-365/enterprise/windows-365-reserve-license)
+[Windows 365 Reserve FAQ](https://learn.microsoft.com/windows-365/enterprise/windows-365-reserve-FAQ)
 
 
 ## Contributing
