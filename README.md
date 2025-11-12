@@ -26,6 +26,7 @@
 | Link to the outline  | [Outline](https://microsoft-my.sharepoint-df.com/:w:/p/adnich/Efkq4nEBMRNMoFGAjyykVkwB9CECSL0n0vAz-KvNKMhCYA?e=oGOWsV) |  |
 | Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198052)|  |
 | Link to the user guide | [Lab Guide](https://microsoft-my.sharepoint-df.com/:w:/p/adnich/ESU_J3oE9K9Nroz7LxZ4WIYB9Jjnt0vwIYwi4WE43dBzig?e=uutRkI) |  |
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 
 
 ## Contributing
