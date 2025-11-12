@@ -23,7 +23,7 @@
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Link to the outline  | [Outline](https://microsoft-my.sharepoint-df.com/:w:/p/adnich/Efkq4nEBMRNMoFGAjyykVkwB9CECSL0n0vAz-KvNKMhCYA?e=oGOWsV&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=6a01c9cb-0e83-402f-8ec1-a0964aba4478&web=1&ct=1762922211666) |  |
+| Link to the outline  | [Outline](https://microsoft-my.sharepoint-df.com/:w:/p/adnich/Efkq4nEBMRNMoFGAjyykVkwB9CECSL0n0vAz-KvNKMhCYA?e=oGOWsV) |  |
 | Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198052)|  |
 | Link to the user guide | [Lab Guide](https://microsoft-my.sharepoint-df.com/:w:/p/adnich/ESU_J3oE9K9Nroz7LxZ4WIYB9Jjnt0vwIYwi4WE43dBzig?e=uutRkI) |  |
 
