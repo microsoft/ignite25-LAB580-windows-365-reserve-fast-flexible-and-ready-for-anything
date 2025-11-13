@@ -28,6 +28,12 @@
 | Windows 365 Reserve licensing | [Windows 365 Reserve licensing](https://learn.microsoft.com/windows-365/enterprise/windows-365-reserve-license) | 
 | Windows 365 Reserve FAQ | [Windows 365 Reserve FAQ](https://learn.microsoft.com/windows-365/enterprise/windows-365-reserve-FAQ) | 
 
+### 🚀 Next Steps
+
+| Resource          | Links                             | Description                             |
+|:-------------------|:----------------------------------|:----------------------------------------|
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions | 
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
