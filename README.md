@@ -19,7 +19,7 @@
 1. Intune
 1. Windows App
 
-### 📚 Resources
+### 📚 Resources & Next Steps
 
 | Resources          | Links                             |
 |:-------------------|:----------------------------------|
@@ -27,12 +27,7 @@
 | Managing Windows 365 Reserve | [Managing Windows 365 Reserve](https://learn.microsoft.com/windows-365/enterprise/windows-365-reserve-manage)| 
 | Windows 365 Reserve licensing | [Windows 365 Reserve licensing](https://learn.microsoft.com/windows-365/enterprise/windows-365-reserve-license) | 
 | Windows 365 Reserve FAQ | [Windows 365 Reserve FAQ](https://learn.microsoft.com/windows-365/enterprise/windows-365-reserve-FAQ) | 
-
-### 🚀 Next Steps
-
-| Resource          | Links                             | Description                             |
-|:-------------------|:----------------------------------|:----------------------------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions | 
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | 
 
 ## Contributing
 
